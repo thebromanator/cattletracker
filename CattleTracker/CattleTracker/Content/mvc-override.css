@@ -1,0 +1,12 @@
+﻿/**
+    Override Angle default styles
+    Author: Mike Broman
+*/
+
+.preloader-progress {
+    background-image: url(/Images/logos/cattletracker-logo-empty.png);
+}
+
+.preloader-progress-bar {
+    background-image: url(../Images/logos/cattletracker-logo-sm.png);
+}

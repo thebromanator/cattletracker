@@ -1,0 +1,108 @@
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Angle.dll.config
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Angle.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Angle.pdb
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Antlr3.Runtime.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\EntityFramework.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\EntityFramework.SqlServer.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Newtonsoft.Json.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Owin.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Helpers.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Mvc.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Optimization.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Razor.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.WebPages.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.WebPages.Razor.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\WebGrease.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Helpers.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Mvc.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Optimization.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.Razor.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.WebPages.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\System.Web.WebPages.Razor.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Antlr3.Runtime.pdb
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Newtonsoft.Json.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\EntityFramework.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\EntityFramework.SqlServer.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\obj\Debug\Angle.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\angletemplate\backend-mvc5-angular-seed\Angle\Angle\obj\Debug\Angle.pdb
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Antlr3.Runtime.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\EntityFramework.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\EntityFramework.SqlServer.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Newtonsoft.Json.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Owin.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Helpers.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Mvc.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Optimization.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Razor.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.WebPages.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.WebPages.Razor.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\WebGrease.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Helpers.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Mvc.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Optimization.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.Razor.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.WebPages.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\System.Web.WebPages.Razor.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Antlr3.Runtime.pdb
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Newtonsoft.Json.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\EntityFramework.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\EntityFramework.SqlServer.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\CattleTracker.dll.config
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\CattleTracker.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\bin\CattleTracker.pdb
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\obj\Debug\CattleTracker.dll
+C:\Users\mike.broman.PEOPLETEC\Documents\Visual Studio 2015\Projects\Angle\Angle\obj\Debug\CattleTracker.pdb
