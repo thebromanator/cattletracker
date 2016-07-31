@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:local="clr-namespace:cattletracker_app;assembly=cattletracker_app"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cattletracker_app.MenuPage">
+
+  <MasterDetailPage.Master>
+    <ContentPage Title="Menu">
+      <StackLayout>
+        <Button Text="Home"/>
+        <Button Text="My Herd"/>
+        <Button Text="Management"/>
+        <Button Text="Health"/>
+        <Button Text="Sales"/>
+      </StackLayout>
+    </ContentPage>
+  </MasterDetailPage.Master>
+
+  <MasterDetailPage.Detail>
+    <local:HomePage/>
+  </MasterDetailPage.Detail>
+
+</MasterDetailPage>
