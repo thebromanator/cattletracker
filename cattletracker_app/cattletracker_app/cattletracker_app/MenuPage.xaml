@@ -6,12 +6,17 @@
 
   <MasterDetailPage.Master>
     <ContentPage Title="Menu">
-      <StackLayout>
-        <Button Text="Home"/>
-        <Button Text="My Herd"/>
-        <Button Text="Management"/>
-        <Button Text="Health"/>
-        <Button Text="Sales"/>
+      <StackLayout BackgroundColor="Aqua">
+        <Button Text="Home"
+                Clicked="HomeBtn_OnClicked"/>
+        <Button Text="My Herd"
+                Clicked="MyHerdBtn_OnClicked"/>
+        <Button Text="Management"
+                Clicked="ManagementBtn_OnClicked"/>
+        <Button Text="Health"
+                Clicked="HealthBtn_OnClicked"/>
+        <Button Text="Sales"
+                Clicked="SalesBtn_OnClicked"/>
       </StackLayout>
     </ContentPage>
   </MasterDetailPage.Master>
