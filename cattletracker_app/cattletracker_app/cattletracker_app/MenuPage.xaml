@@ -6,7 +6,7 @@
 
   <MasterDetailPage.Master>
     <ContentPage Title="Menu">
-      <StackLayout BackgroundColor="Aqua">
+      <StackLayout>
         <Button Text="Home"
                 Clicked="HomeBtn_OnClicked"/>
         <Button Text="My Herd"

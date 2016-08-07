@@ -42,7 +42,6 @@
     <Compile Include="HealthPage.xaml.cs">
       <DependentUpon>HealthPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="IDialer.cs" />
     <Compile Include="HomePage.xaml.cs">
       <DependentUpon>HomePage.xaml</DependentUpon>
     </Compile>
@@ -55,7 +54,6 @@
     <Compile Include="MyHerdPage.xaml.cs">
       <DependentUpon>MyHerdPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="PhoneTranslator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SalesPage.xaml.cs">
       <DependentUpon>SalesPage.xaml</DependentUpon>
